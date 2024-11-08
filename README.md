@@ -29,7 +29,7 @@ A sophisticated Discord bot for managing support tickets in your server. Designe
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/lunars-cave-ticket-bot.git
+   git clone https://github.com/Associable/lunars-cave-ticket-bot.git
    cd lunars-cave-ticket-bot
    ```
 
